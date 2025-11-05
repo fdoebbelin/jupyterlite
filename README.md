@@ -1,6 +1,6 @@
 # JupyterLite on Github Pages
 
-[![lite-badge](https://fdoebbelin.github.io/jupyterlite/)
+![JupyterLite CI](https://jupyterlite.readthedocs.io/en/latest/_static/badge.svg)](https://fdoebbelin.github.io/jupyterlite/)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
