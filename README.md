@@ -1,5 +1,9 @@
 # JupyterLite on Github Pages
 
+> [!IMPORTANT]
+> **Dieses Repo ist archiviert.** Die Begleit-Notebooks zum Tauri-Kompaktkurs (M00–M07) und ihre Generator-Skripte sind umgezogen nach **[fdoebbelin/tauri-kompaktkurs-notebooks](https://github.com/fdoebbelin/tauri-kompaktkurs-notebooks)**.
+> Die aktuelle Fassung läuft unter **https://fdoebbelin.github.io/tauri-kompaktkurs-notebooks/**. Die Kopien hier werden nicht mehr gepflegt.
+
 [![Try JupyterLite](https://img.shields.io/badge/Try-JupyterLite-informational?logo=jupyter&labelColor=F37626)](https://fdoebbelin.github.io/jupyterlite/)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
